@@ -1,0 +1,473 @@
+﻿objectid,objectname
+204,Baboon
+205,Badger
+206,Bald eagle
+207,Bandicoot
+208,Barnacle
+209,Barracuda
+210,Basilisk
+211,Bass
+212,Bat
+213,Beaked whale
+214,Bear
+215,list
+217,Bedbug
+218,Bee
+219,Beetle
+220,Bird
+221,list
+222,Bison
+223,Blackbird
+224,Black panther
+225,Black widow spider
+226,Blue bird
+227,Blue jay
+228,Blue whale
+229,Boa
+230,Boar
+231,Bobcat
+232,Bobolink
+233,Bonobo
+234,Booby
+235,Box jellyfish
+236,Bovid
+237,"Buffalo, African"
+238,"Buffalo, American (bison)"
+239,Bug
+240,Butterfly
+241,Buzzard
+242,Camel
+243,Canid
+244,Cape buffalo
+245,Capybara
+246,Cardinal
+247,Caribou
+248,Carp
+249,Cat
+250,list
+251,Catshark
+252,Caterpillar
+253,Catfish
+254,Cattle
+255,list
+256,Centipede
+257,Cephalopod
+258,Chameleon
+259,Cheetah
+260,Chickadee
+261,Chicken
+262,list
+263,Chimpanzee
+264,Chinchilla
+265,Chipmunk
+266,Clam
+267,Clownfish
+268,Cobra
+269,Cockroach
+270,Cod
+271,Condor
+272,Constrictor
+273,Coral
+274,Cougar
+275,Cow
+276,Coyote
+277,Crab
+278,Crane
+279,Crane fly
+280,Crawdad
+281,Crayfish
+282,Cricket
+283,Crocodile
+284,Crow
+285,Cuckoo
+286,Cicada
+287,Damselfly
+288,Deer
+289,Dingo
+290,Dinosaur
+291,list
+292,Dog
+293,list
+294,Dolphin
+295,Donkey
+296,list
+297,Dormouse
+298,Dove
+299,Dragonfly
+300,Dragon
+301,Duck
+302,list
+303,Dung beetle
+304,Eagle
+305,Earthworm
+306,Earwig
+307,Echidna
+308,Eel
+309,Egret
+310,Elephant
+311,Elephant seal
+312,Elk
+313,Emu
+314,English pointer
+315,Ermine
+316,Falcon
+317,Ferret
+318,Finch
+319,Firefly
+320,Fish
+321,Flamingo
+322,Flea
+323,Fly
+324,Flyingfish
+325,Fowl
+326,Fox
+327,Frog
+328,Fruit bat
+329,Gamefowl
+330,list
+331,Galliform
+332,list
+333,Gazelle
+334,Gecko
+335,Gerbil
+336,Giant panda
+337,Giant squid
+338,Gibbon
+339,Gila monster
+340,Giraffe
+341,Goat
+342,list
+343,Goldfish
+344,Goose
+345,list
+346,Gopher
+347,Gorilla
+348,Grasshopper
+349,Great blue heron
+350,Great white shark
+351,Grizzly bear
+352,Ground shark
+353,Ground sloth
+354,Grouse
+355,Guan
+356,list
+357,Guanaco
+358,Guineafowl
+359,list
+360,Guinea pig
+361,list
+362,Gull
+363,Guppy
+364,Haddock
+365,Halibut
+366,Hammerhead shark
+367,Hamster
+368,Hare
+369,Harrier
+370,Hawk
+371,Hedgehog
+372,Hermit crab
+373,Heron
+374,Herring
+375,Hippopotamus
+376,Hookworm
+377,Hornet
+378,Horse
+379,list
+380,Hoverfly
+381,Hummingbird
+382,Humpback whale
+383,Hyena
+384,Iguana
+385,Impala
+386,Irukandji jellyfish
+387,Jackal
+388,Jaguar
+389,Jay
+390,Jellyfish
+391,Junglefowl
+392,Kangaroo
+393,Kangaroo mouse
+394,Kangaroo rat
+395,Kingfisher
+396,Kite
+397,Kiwi
+398,Koala
+399,Koi
+400,Komodo dragon
+401,Krill
+402,Ladybug
+403,Lamprey
+404,Landfowl
+405,Land snail
+406,Lark
+407,Leech
+408,Lemming
+409,Lemur
+410,Leopard
+411,Leopon
+412,Limpet
+413,Lion
+414,Lizard
+415,Llama
+416,Lobster
+417,Locust
+418,Loon
+419,Louse
+420,Lungfish
+421,Lynx
+422,Macaw
+423,Mackerel
+424,Magpie
+425,Mammal
+426,Manatee
+427,Mandrill
+428,Manta ray
+429,Marlin
+430,Marmoset
+431,Marmot
+432,Marsupial
+433,Marten
+434,Mastodon
+435,Meadowlark
+436,Meerkat
+437,Mink
+438,Minnow
+439,Mite
+440,Mockingbird
+441,Mole
+442,Mollusk
+443,Mongoose
+444,Monitor lizard
+445,Monkey
+446,Moose
+447,Mosquito
+448,Moth
+449,Mountain goat
+450,Mouse
+451,Mule
+452,Muskox
+453,Narwhal
+454,Newt
+455,New World quail
+456,Nightingale
+457,Ocelot
+458,Octopus
+459,Old World quail
+460,Opossum
+461,Orangutan
+462,Orca
+463,Ostrich
+464,Otter
+465,Owl
+466,Ox
+467,Panda
+468,Panther
+469,Panthera hybrid
+470,Parakeet
+471,Parrot
+472,Parrotfish
+473,Partridge
+474,Peacock
+475,Peafowl
+476,Pelican
+477,Penguin
+478,Perch
+479,Peregrine falcon
+480,Pheasant
+481,Pig
+482,Pigeon
+483,list
+484,Pike
+485,Pilot whale
+486,Pinniped
+487,Piranha
+488,Planarian
+489,Platypus
+490,Polar bear
+491,Pony
+492,Porcupine
+493,Porpoise
+494,Portuguese man o' war
+495,Possum
+496,Prairie dog
+497,Prawn
+498,Praying mantis
+499,Primate
+500,Ptarmigan
+501,Puffin
+502,Puma
+503,Python
+504,Quail
+505,Quelea
+506,Quokka
+507,Rabbit
+508,list
+509,Raccoon
+510,Rainbow trout
+511,Rat
+512,Rattlesnake
+513,Raven
+514,Ray (Batoidea)
+515,Ray (Rajiformes)
+516,Red panda
+517,Reindeer
+518,Reptile
+519,Rhinoceros
+520,Right whale
+521,Roadrunner
+522,Rodent
+523,Rook
+524,Rooster
+525,Roundworm
+526,Saber-toothed cat
+527,Sailfish
+528,Salamander
+529,Salmon
+530,Sawfish
+531,Scale insect
+532,Scallop
+533,Scorpion
+534,Seahorse
+535,Sea lion
+536,Sea slug
+537,Sea snail
+538,Shark
+539,list
+540,Sheep
+541,list
+542,Shrew
+543,Shrimp
+544,Silkworm
+545,Silverfish
+546,Skink
+547,Skunk
+548,Sloth
+549,Slug
+550,Smelt
+551,Snail
+552,Snake
+553,list
+554,Snipe
+555,Snow leopard
+556,Sockeye salmon
+557,Sole
+558,Sparrow
+559,Sperm whale
+560,Spider
+561,Spider monkey
+562,Spoonbill
+563,Squid
+564,Squirrel
+565,Starfish
+566,Star-nosed mole
+567,Steelhead trout
+568,Stingray
+569,Stoat
+570,Stork
+571,Sturgeon
+572,Sugar glider
+573,Swallow
+574,Swan
+575,Swift
+576,Swordfish
+577,Swordtail
+578,Tahr
+579,Takin
+580,Tapir
+581,Tarantula
+582,Tarsier
+583,Tasmanian devil
+584,Termite
+585,Tern
+586,Thrush
+587,Tick
+588,Tiger
+589,Tiger shark
+590,Tiglon
+591,Toad
+592,Tortoise
+593,Toucan
+594,Trapdoor spider
+595,Tree frog
+596,Trout
+597,Tuna
+598,Turkey
+599,list
+600,Turtle
+601,Tyrannosaurus
+602,Urial
+603,Vampire bat
+604,Vampire squid
+605,Vicuna
+606,Viper
+607,Vole
+608,Vulture
+609,Wallaby
+610,Walrus
+611,Wasp
+612,Warbler
+613,Water Boa
+614,Water buffalo
+615,Weasel
+616,Whale
+617,Whippet
+618,Whitefish
+619,Whooping crane
+620,Wildcat
+621,Wildebeest
+622,Wildfowl
+623,Wolf
+624,Wolverine
+625,Wombat
+626,Woodpecker
+627,Worm
+628,Wren
+629,Xerinae
+630,X-ray fish
+631,Yak
+632,Yellow perch
+633,Zebra
+634,Zebra finch
+635,Animals by number of neurons
+636,Animals by size
+637,Common household pests
+638,Common names of poisonous animals
+639,Alpaca
+640,Bali cattle
+641,Cat
+642,Cattle
+643,Chicken
+644,Dog
+645,Domestic Bactrian camel
+646,Domestic canary
+647,Domestic dromedary camel
+648,Domestic duck
+649,Domestic goat
+650,Domestic goose
+651,Domestic guineafowl
+652,Domestic hedgehog
+653,Domestic pig
+654,Domestic pigeon
+655,Domestic rabbit
+656,Domestic silkmoth
+657,Domestic silver fox
+658,Domestic turkey
+659,Donkey
+660,Fancy mouse
+661,Fancy rat
+662,Lab rat
+663,Ferret
+664,Gayal
+665,Goldfish
+666,Guinea pig
+667,Guppy
+668,Horse
+669,Koi
+670,Llama
+671,Ringneck dove
+672,Sheep
+673,Siamese fighting fish
+674,Society finch
+675,Yak
+676,Water buffalo
