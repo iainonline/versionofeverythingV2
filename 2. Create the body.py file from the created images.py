@@ -1,6 +1,6 @@
-# Creating an HTML file
-# Adding input data to the HTML file
-# define the variable
+# After you create the images using the file [1. Create names images using DALL.E 2 model.py]
+# Run this file to create an html file called body.php
+# Open body.php in your browser to view the images created
 
 import os
 

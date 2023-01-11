@@ -1,3 +1,7 @@
+# Run this script first to create the named images
+# Create an ENV variable for your API key or enter directly on line 13
+# Once this has run, use the script [2. Create the body.py file from the created images]
+
 import pandas as pd
 import os
 import openai
