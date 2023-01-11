@@ -24,6 +24,5 @@ print(filenames)
 with open("body.php", "w") as file:
     # write the HTML with the variable
     for files in filenames:
-        #file.write(f"<html>\n<body>\n<h1>{files}!</h1>\n</body>\n</html>") - works
         objectname = files[:-4]
         file.write(f'<div class="container"><img src="{files}" height="200" width="200" /><p>{objectname}</p></div>')

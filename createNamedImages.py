@@ -7,7 +7,7 @@ def file_exists(filename):
     return os.path.isfile(filename)
 
 # Load your API key from an environment variable or secret management service
-openai.api_key = "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" #os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 count = 1
 
@@ -22,7 +22,6 @@ for index, row in cleanlist.iterrows():
     value_1 = row['count']
     value_2 = row['word']
     # Print the values
-    #print(value_1, value_2)
 
     filename = (f'{value_2}.png')
     if file_exists(filename):
